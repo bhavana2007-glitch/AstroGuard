@@ -318,14 +318,6 @@ The notebook contains the Machine Learning workflow, including:
 
 ---
 
-# 🎥 ML Video Presentation
-
-The project presentation and ML demonstration video are available here:
-
-👉 **[AstroGuard AI – ML Video Presentation](https://drive.google.com/drive/folders/1h0GZEhQuy25LZsuzZG-wn0CjZxk-os06?usp=sharing)**
-
----
-
 # 🛠️ Technologies Used
 
 ## Programming Language
